@@ -30,5 +30,5 @@ The source code is released under [Apache 2.0](https://aws.amazon.com/apache-2-0
 
 ## Resources
 
-* [UDE ROS Bridge](https://github.com/aws-deepracer/ude-ros-bridge)
-* [UDE OpenAI-Gym Bridge](https://github.com/aws-deepracer/ude-gym-bridge)
+* [UDE ROS Bridge](https://github.com/juhgiyo/ude-ros-bridge)
+* [UDE OpenAI-Gym Bridge](https://github.com/juhgiyo/ude-gym-bridge)
